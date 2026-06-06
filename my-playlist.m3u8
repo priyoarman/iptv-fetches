@@ -182,16 +182,16 @@ http://sm-monirul.top/SM/live/sony_sports_4.m3u8
 http://sm-monirul.top/SM/live/sony_sports_5_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO
-http://sm-monirul.top/SM/live/natgeo_hd.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD
 http://sm-monirul.top/SM/live/natgeo_wild_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="English", DISCOVERY
-http://sm-monirul.top/SM/live/discovery_hd.m3u8
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV
 http://sm-monirul.top/SM/live/history_tv_hd.m3u8
@@ -388,6 +388,6 @@ http://sm-monirul.top/SM/live/pogo.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="Cartoon", SONY YAY
 http://sm-monirul.top/SM/live/sony_yay.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONIC1745041154.png" group-title="Cartoon", SONIC
-http://sm-monirul.top/SM/live/sonic.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cartoon", Disney Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
 
