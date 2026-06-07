@@ -116,7 +116,20 @@ http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
-http://45.170.130.224:8000/play/a020/index.m3u8
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg" group-title="Sports" ,Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNYVBCNw/20260604-154446.jpg" group-title="Sports" ,UNITE8 Sports 1
+#http://66.102.126.10:8000/play/a076/index.m3u8
+http://103.204.43.87:8080/live/1/1/266.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvHtJdm/20260604-155212.jpg" group-title="Sports" ,UNITE8 Sports 2
+#http://66.102.126.10:8000/play/a022/index.m3u8
+http://103.204.43.87:8080/live/1/1/264.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="Sports",FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
