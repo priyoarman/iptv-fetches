@@ -34,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png" group-title="Bangla",CHANNEL 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="198000" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="Bangla",EKHON TV
+#EXTINF:-1 tvg-id="198000" tvg-logo="https://framerusercontent.com/images/sOtAS0qaCzW8VObuEV8hfGyLKfQ.webp" group-title="Bangla",EKHON TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1780397559&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8fc03ed4fdb051f9295d5402a36ea2b
 
 #EXTINF:-1 tvg-id="deshitv.bd" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="Bangla",DESH TV
@@ -64,13 +64,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="102000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",EKATTOR TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-id="98000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla",SOMOY TV
+#EXTINF:-1 tvg-id="98000" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="185000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-id="186000" tvg-logo="http://redforce.live/assets/images/NEWS.24.HD1750866866.png" group-title="Bangla",NEWS 24
+#EXTINF:-1 tvg-id="186000" tvg-logo="https://iconape.com/wp-content/files/eb/130963/svg/130963.svg" group-title="Bangla",NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-id="93000" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangla",INDEPENDENT TV
@@ -88,7 +88,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Bangla",GAZI TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/120px-T_Sports_logo.svg.png?_=20250120073747" group-title="Sports",T SPORTS
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780380888&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ad454c45978cca71b399be2cf9346752
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Sports",FOX SPORTS 1
@@ -115,7 +115,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png?_=20221114223321" group-title="Sports",DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg" group-title="Sports",Caze TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="Sports",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
