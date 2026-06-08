@@ -119,14 +119,14 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Telemundo_2018.svg" group-title="Sports",Telemundo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Sports",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNYVBCNw/20260604-154446.jpg" group-title="Sports" ,UNITE8 Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zee_Entertainment_2025.svg/250px-Zee_Entertainment_2025.svg.png" group-title="Sports" ,UNITE8 Sports 1
 #http://66.102.126.10:8000/play/a076/index.m3u8
 http://103.204.43.87:8080/live/1/1/266.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvHtJdm/20260604-155212.jpg" group-title="Sports" ,UNITE8 Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zee_Entertainment_2025.svg/250px-Zee_Entertainment_2025.svg.png" group-title="Sports" ,UNITE8 Sports 2
 #http://66.102.126.10:8000/play/a022/index.m3u8
 http://103.204.43.87:8080/live/1/1/264.m3u8
 
