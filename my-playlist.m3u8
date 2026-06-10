@@ -260,35 +260,35 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54760.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="English",NATGEO
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD
-http://sm-monirul.top/SM/live/natgeo_wild_hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="English",DISCOVERY
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary",Discovery India
+http://202.70.146.135:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wp_logo_fullcolor_WhiteOutline.png?v=1737640774" group-title="Documentary",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/831-8310067_bindi-the-otters-new-animal-planet-logo.png",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/archive/f/f5/20180124021548%21History_Logo.svg.png" group-title="Documentary",History TV
 http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/645913.ts
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="English",AXN
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="Documentary",AXN
 http://sm-monirul.top/SM/live/axn_hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="English",BBC EARTH
-http://sm-monirul.top/SM/live/bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="Documentary",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="Documentary",SONY BBC EARTH
 http://sm-monirul.top/SM/live/sony_bbc_earth_hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="Documentary",TRAVEL XP
 http://sm-monirul.top/SM/live/travel_xp.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf" group-title="English",WEATHER CHANNEL
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1780545964&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b9bd7a9d50f0ef2b25f6df48c8a9a01e
 
 
 
@@ -356,35 +356,35 @@ https://tvsen6.aynaott.com/mtv/index.m3u8?e=1780545965&u=78be6644-0a65-48ec-81a4
 
 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR JALSHA HD1745033819.png" group-title="Calcutta",STAR JALSHA
-http://sm-monirul.top/SM/live/star_jalsha_hd.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Indian Bangla",Star Jalsha
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA HD1745033633.png" group-title="Calcutta",ZEE BANGLA
-http://sm-monirul.top/SM/live/zee_bangla_hd.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/64428768187933.Y3JvcCw1OTQsNDY0LDMwOSwyMDc.png" group-title="Indian Bangla" ,ZEE Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA HD1745033576.png" group-title="Calcutta",COLORS BANGLA
-http://sm-monirul.top/SM/live/colors_bangla_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg" group-title="Indian Bangla",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUN BANGLA HD1745033791.png" group-title="Calcutta",SUN BANGLA
-http://sm-monirul.top/SM/live/sun_bangla_hd.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY AAT1745041124.png" group-title="Calcutta",SONY AAT
-http://sm-monirul.top/SM/live/sony_aat.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Indian Bangla",SONY AAT
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="Calcutta",JALSHA MOVIES
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="Indian Bangla",JALSHA MOVIES
 http://sm-monirul.top/SM/live/jalsha_movies_hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Calcutta",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Indian Bangla",ZEE BANGLA CINEMA
 http://sm-monirul.top/SM/live/zee_bangla_cinema.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="Calcutta",COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="Indian Bangla",COLORS BANGLA CINEMA
 http://sm-monirul.top/SM/live/colors_bangla_cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangla",DESHE BIDESHE
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Sangeet Bangla1750870252.png" group-title="Calcutta",SANGEET BANGLA
-http://sm-monirul.top/SM/live/sangeet_bangla.
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png" group-title="Indian Bangla",SANGEET BANGLA
+https://cdn-4.pishow.tv/live/1143/master.m3u
 
 
 
@@ -441,14 +441,14 @@ http://sm-monirul.top/SM/live/zee_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZING1745042718.png" group-title="Hindi", ZING
 http://sm-monirul.top/SM/live/zing.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZOOM1745040961.png" group-title="Hindi", ZOOM
-http://sm-monirul.top/SM/live/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Hindi",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Music India1750867544.png" group-title="Hindi", Music India
-http://sm-monirul.top/SM/live/music_india.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png" group-title="Hindi",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/9XM MUSIC1750866757.png" group-title="Hindi",9XM MUSIC
-http://sm-monirul.top/SM/live/9xm_music.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Hindi",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 
 
@@ -461,24 +461,24 @@ http://sm-monirul.top/SM/live/romedy_now.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM TV1745044837.png" group-title="Hindi", HUM TV
 http://sm-monirul.top/SM/live/hum_tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Cartoon", Cartoon Network
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids", Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Cartoon", Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids", Nickelodeon
+https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1779283926&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6cbf077eae56bf7598b035f3c466d2b1
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Cartoon", Nick Jr
-http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/74691.ts
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids", Nick Jr
+https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1779283919&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4708f179311f53518e4b1a8b697c8c1e
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUNGAMA1745041551.png" group-title="Cartoon", HUNGAMA
-http://sm-monirul.top/SM/live/hungama.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="Kids",Nicktoons
+https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1779283918&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbed6be573aa4a90a753bfb8fc060038
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/POGO1745041515.png" group-title="Cartoon", POGO
-http://sm-monirul.top/SM/live/pogo.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be" group-title="Kids",Teen Nick
+https://tvsen7.aynaott.com/teennick/index.m3u8?e=1779283927&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3404b7a0258a1438c3f8204f2df21ddc
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="Cartoon", SONY YAY
-http://sm-monirul.top/SM/live/sony_yay.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cartoon", Disney Channel
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids", Disney Channel
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
 
