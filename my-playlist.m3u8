@@ -260,13 +260,13 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54760.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO
-http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="English",NATGEO
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD
 http://sm-monirul.top/SM/live/natgeo_wild_hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="English", DISCOVERY
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="English",DISCOVERY
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET
