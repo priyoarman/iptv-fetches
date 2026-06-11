@@ -34,7 +34,7 @@ https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png" group-title="Bangla",Channel 1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="198000" tvg-logo="https://framerusercontent.com/images/sOtAS0qaCzW8VObuEV8hfGyLKfQ.webp" group-title="Bangla",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
@@ -93,7 +93,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/120px-T_Sports_logo.svg.png?_=20250120073747" group-title="Sports",T SPORTS
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 
 
 
@@ -161,6 +161,40 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="Sports",FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
+
+
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports 1
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports 2
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports 3
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports 4
+http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports FR 3
+http://145.239.5.177/559/mpegts
+
+#EXTINF:-1 group-title="Sports",Матч 1
+http://cdntv.online/low/9mlxywika2/48.m3u8
+
+#EXTINF:-1 group-title="Sports",Матч 2
+http://95.47.155.244:8001/play/a003
+
+#EXTINF:-1 group-title="Sports",МАТЧ! ФУТБOЛ 3
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 group-title="Sports",M4 Sport
+http://46.149.191.217:9010/play/a017
+
+#EXTINF:-1 group-title="Sports",CT SPORT
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+
 
 
 
@@ -232,7 +266,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",STAR SPORTS 2
-http://103.157.248.140:8000/play/a01m/index.m3u8
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
 http://sm-monirul.top/SM/live/star_sports_3.m3u8
@@ -249,8 +283,8 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV SPORTS
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780411450&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3a6f84f8f1073c0eac4ad15c18db4bb9
 
-#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Sports",T Sports HD
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Sports",T Sports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
 http://sm-monirul.top/SM/live/sony_sports_4.m3u8
@@ -266,14 +300,13 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary",Discovery India
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery India
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wp_logo_fullcolor_WhiteOutline.png?v=1737640774" group-title="Documentary",Wild Planet
+#EXTINF:-1 tvg-logo="https://d2azl42aua8mom.cloudfront.net/wp-content/uploads/2017/02/17142118/jxMPHU7N.png" group-title="Documentary",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/831-8310067_bindi-the-otters-new-animal-planet-logo.png",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/archive/f/f5/20180124021548%21History_Logo.svg.png" group-title="Documentary",History TV
 http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/645913.ts
@@ -424,7 +457,7 @@ http://sm-monirul.top/SM/live/mtv_india.m3u8
 http://sm-monirul.top/SM/live/colors_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="Hindi",COLORS CINEPLEX HD
-http://sm-monirul.top/SM/live/colors_cineplex_hd.m3u8
+http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND XPLORE1745043080.png" group-title="Hindi",AND XPLORE
 http://sm-monirul.top/SM/live/and_xplore.m3u8
