@@ -140,7 +140,7 @@ https://jmp2.uk/stvp-IN270000230
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Sports",FOX
-http://stream.cammonitorplus.net/1772/index.m3u8
+http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Sports",FOX Sports 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
@@ -236,6 +236,9 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/sport-2.png" group-title="Sports",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/ADINZ0CxEk4Nzg==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjlAAQ==" group-title="Sports",Fubo Sports Network
+https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",Матч 1
 http://cdntv.online/low/9mlxywika2/48.m3u8
