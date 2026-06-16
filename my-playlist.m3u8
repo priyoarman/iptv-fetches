@@ -118,11 +118,11 @@ https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="Sports", iTV 4
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHoaHIQUz0kzgA53CKR6i7/m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Sports",TSN1
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Sports",TSN 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Sports",TSN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Sports",TSN 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/tsn-3-logo-png_seeklogo-314924.png" group-title="Sports",TSN 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
@@ -222,14 +222,17 @@ http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports FR 3
 http://145.239.5.177/559/mpegts
 
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="Sports",RAI Sport
+http://lordstreams.live:80/9857855271/8369553594/661360
 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="Sports",Arena Sport 1
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/87961
 
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="Sports",Arena Sport 2
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130659
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Other",Arena Sport 1
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Other",ARENA Sport 2
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="Sports",Arena Sport 3
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130660
 
 #EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/sport-1.png" group-title="Sports",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
@@ -310,10 +313,10 @@ https://tvsen7.aynaott.com/sspts1/index.m3u8
 http://sm-monirul.top/SM/live/star_sports_select_2_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A SPORTS
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=cOuvQLQc3Fv5qbHEINmEIA&expires=1781628020
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV SPORTS
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780411450&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3a6f84f8f1073c0eac4ad15c18db4bb9
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=-xfrgdtymPP6xAOS66u4zQ&expires=1781628019
 
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Sports",T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
