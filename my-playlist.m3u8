@@ -189,7 +189,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports", SporTV Brazil
 http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Sports",CT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Sports",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports", TVRI Sport
@@ -198,11 +198,11 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Sports",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Sports",TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Sports",Telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="Sports",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="TV",Telemundo
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 
 
@@ -255,17 +255,17 @@ https://xemzi.short.gy/2000001
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS Sports Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/07/14121624/sportdigital.png" group-title="Sports",Sportdigital
-https://jmp2.uk/stvp-ATAJ0500433A
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ Sport
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/2/setanta-logo-png_seeklogo-221322.png" group-title="Sports",Setanta Sports 1
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/2/setanta-logo-png_seeklogo-221322.png" group-title="Sports",Setanta Sports 2
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/07/14121624/sportdigital.png" group-title="Sports",Sportdigital
+https://jmp2.uk/stvp-ATAJ0500433A
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",talkSPORT
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
@@ -345,17 +345,17 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery India
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery India
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2azl42aua8mom.cloudfront.net/wp-content/uploads/2017/02/17142118/jxMPHU7N.png" group-title="Documentary",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
-https://
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/archive/f/f5/20180124021548%21History_Logo.svg.png" group-title="Documentary",History TV
-http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/645913.ts
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="Documentary",History Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="Documentary",AXN
 http://sm-monirul.top/SM/live/axn_hd.m3u8
