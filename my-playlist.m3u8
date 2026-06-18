@@ -130,11 +130,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/inde
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports", TSN 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
 
-#EXTINF:-1 group-title="Sports", RTB Aneka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTB_Aneka.png" group-title="Sports", RTB Aneka
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports", RTB Go Live
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/4pM31KTX5unt88VQSV3-FtYZSHyp9aUGTOGk8z4lhp8xHnh__UTRYnEYtFF2uSed67Oel9tW7Ton56La_tnU2t4HRo2N" group-title="Sports", RTB Go Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
