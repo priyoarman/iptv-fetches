@@ -142,7 +142,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Sports",FOX
-https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Sports",FOX Sports 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
@@ -207,35 +207,35 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/1-ARD-Dachmarke.svg/960px-1-ARD-Dachmarke.svg.png" group-title="Sports",ARD 1
-https://obstreamx.click/live/abzkpknkkt.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGODB3OQ8isI3p5Q6GqDAZnPmvVHa4SzjbQ&s" group-title="Sports",Arena Premium 1
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo_v2.png?1775556997" group-title="Sports",Arena Premium 2
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92239
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo_v2.png?1775557013" group-title="Sports",Arena Premium 3
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92240
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Sports",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/18/2/trt-1-logo-png_seeklogo-184793.png" group-title="Live Events",TRT 1
-https://obstreamx.click/live/vg3xdntclm.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/985?cb=20220319061806&path-prefix=vi" group-title="Sports",CCTV 5
+https://live13a.jynrrs.com/live/20233432.m3u8
+
+#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" group-title="Sports",TV3 Sport
+http://de.seetv.cc/play/6709/632F375BC8243BC/video.m3u8
+
+#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" group-title="Sports", TV3 Sport 2
+http://de.seetv.cc/play/6710/632F375BC8243BC/video.m3u8
+
+#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" group-title="Sports", TV3 Sport 3
+http://de.seetv.cc/play/6711/632F375BC8243BC/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Sports",Telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Sports",Telemundo
 https://instreams.pro/US/NFLHD3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/sport-1.png" group-title="Sports",Sport 1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/sport-2.png" group-title="Sports",Sport 2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/985?cb=20220319061806&path-prefix=vi" group-title="Sports",CCTV 5
-https://live13a.jynrrs.com/live/20233432.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png" group-title="Sports",TV4 SE
-http://193.47.62.47/hls/adXVVVVZ.m3u8
-
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/ADINZ0CxEk4Nzg==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjlAAQ==" group-title="Sports",Fubo Sports Network
-https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8
 
 
 
