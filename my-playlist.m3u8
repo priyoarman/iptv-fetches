@@ -180,13 +180,13 @@ http://185.160.192.64:80/mangin15/85784/13682
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
-https://obstreamx.click/live/rfvtzlcu7e.m3u8
+http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Sports",TNT Sports
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png?_=20221114223321" group-title="Sports",DSports
-https://obstreamx.click/live/x4wzkqvki7.m3u8
+http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/28/20241028021223605133_95.png" group-title="Sports",Sport TV 1
 https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
@@ -282,7 +282,8 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54760.ts
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+http://213.91.179.28:8000/play/a0ct
+#http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentary",Nat Geo Wild
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3058.ts
