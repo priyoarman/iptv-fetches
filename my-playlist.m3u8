@@ -235,7 +235,7 @@ http://de.seetv.cc/play/6711/632F375BC8243BC/video.m3u8
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Sports",Telemundo
-https://instreams.pro/US/NFLHD3/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 
 
