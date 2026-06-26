@@ -215,6 +215,12 @@ http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92239
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo_v2.png?1775557013" group-title="Sports",Arena Premium 3
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92240
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Sports",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/985?cb=20220319061806&path-prefix=vi" group-title="Sports",CCTV 5
+https://live13a.jynrrs.com/live/20233432.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg/revision/latest/scale-to-width-down/250?cb=20240715195802" group-title="Sports",Fussball 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1949445
@@ -227,50 +233,44 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950358
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951087
 
-#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" group-title="Sports",TV3 Sport
-http://de.seetv.cc/play/6709/632F375BC8243BC/video.m3u8
-
-#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" group-title="Sports", TV3 Sport 2
-http://de.seetv.cc/play/6710/632F375BC8243BC/video.m3u8
-
-#EXTINF:0 tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" group-title="Sports", TV3 Sport 3
-http://de.seetv.cc/play/6711/632F375BC8243BC/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Sports",CT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Sports",Telefe
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Sports",Telemundo
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Sports",Telefe
-http://200.115.120.1:8000/play/ca016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/985?cb=20220319061806&path-prefix=vi" group-title="Sports",CCTV 5
-https://live13a.jynrrs.com/live/20233432.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR_SPORTS_1 HD1744991778.png" group-title="Sports",STAR SPORTS 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",STAR SPORTS 2
-https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 1
+http://sm-monirul.top/tof/live/toffee1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR_SPORTS_1 HD1745038777.png" group-title="Sports",STAR SPORTS SELECT
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 2
+http://sm-monirul.top/tof/live/toffee2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SELECT 2 HD1745033722.png" group-title="Sports",STAR SPORTS SELECT 2
-http://sm-monirul.top/SM/live/star_sports_select_2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 3
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A SPORTS
-https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=cOuvQLQc3Fv5qbHEINmEIA&expires=1781628020
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV SPORTS
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=-xfrgdtymPP6xAOS66u4zQ&expires=1781628019
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 5
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="Sports",WILLOW CRICKET
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54760.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
+http://sm-monirul.top/ott/bioscope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
+http://sm-monirul.top/ott/bioscope1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10"  group-title="World_Cup",i screen
+http://sm-monirul.top/ott/iscreen/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg"  group-title="World_Cup",Unite8 Sports 1
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg"  group-title="World_Cup",Unite8 Sports 2
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 
