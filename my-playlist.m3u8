@@ -173,6 +173,39 @@ http://185.160.192.64:80/mangin15/85784/13682
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YjMTLHM/unite1-removebg-preview.png" group-title="Sports",Unite8 Sports 1
+https://ranapkbd.site/JOIN@RANAPK33/play.php?id=373312&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Qt75kXJ/unite2-removebg-preview.png" group-title="Sports",Unite8 Sports 2
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="Sports",Bioscope 1
+http://sm-monirul.top/ott/bioscope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="Sports",Bioscope 2
+http://sm-monirul.top/ott/bioscope1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/chDY3Sk1TX1UTbKTYTvY6Uxg0KsWAtZoi_S3yv2urK3CWwfKGMCN7es0WB2aLgH4nyuexC-n5nrdCP-XQg5w"  group-title="Sports",iScreen
+http://sm-monirul.top/ott/iscreen/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 1
+http://sm-monirul.top/tof/live/toffee1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 2
+http://sm-monirul.top/tof/live/toffee2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 3
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 5
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
 http://190.7.19.197:232/play/a04w/index.m3u8
 
@@ -238,39 +271,6 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Sports",Telemundo
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 1
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 2
-http://sm-monirul.top/tof/live/toffee2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 3
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 4
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="World_Cup",Toffee 5
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-http://sm-monirul.top/ott/bioscope/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-http://sm-monirul.top/ott/bioscope1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10"  group-title="World_Cup",i screen
-http://sm-monirul.top/ott/iscreen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg"  group-title="World_Cup",Unite8 Sports 1
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg"  group-title="World_Cup",Unite8 Sports 2
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
 
