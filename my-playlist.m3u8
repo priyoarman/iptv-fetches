@@ -179,6 +179,21 @@ https://ranapkbd.site/JOIN@RANAPK33/play.php?id=373312&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Qt75kXJ/unite2-removebg-preview.png" group-title="Sports",Unite8 Sports 2
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+https://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",Ten Sports
+https://stalker.hakunamata.workers.dev/play/1098/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Bangla",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 1
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 2
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="Sports",Bioscope 1
 http://sm-monirul.top/ott/bioscope/index.m3u8
 
@@ -187,21 +202,6 @@ http://sm-monirul.top/ott/bioscope1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/chDY3Sk1TX1UTbKTYTvY6Uxg0KsWAtZoi_S3yv2urK3CWwfKGMCN7es0WB2aLgH4nyuexC-n5nrdCP-XQg5w"  group-title="Sports",iScreen
 http://sm-monirul.top/ott/iscreen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 1
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 2
-http://sm-monirul.top/tof/live/toffee2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 3
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 4
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 5
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
 
 
 
