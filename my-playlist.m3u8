@@ -276,17 +276,14 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
-http://213.91.179.28:8000/play/a0ct
-#http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3665.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentary",Nat Geo Wild
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3058.ts
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2azl42aua8mom.cloudfront.net/wp-content/uploads/2017/02/17142118/jxMPHU7N.png" group-title="Documentary",Wild Planet
-https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3718.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
@@ -294,17 +291,17 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="Documentary",History Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="Documentary",AXN
-http://sm-monirul.top/SM/live/axn_hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="Documentary",SONY BBC EARTH
-http://sm-monirul.top/SM/live/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="Documentary",BBC America
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3704.ts
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="Documentary",TRAVEL XP
-http://sm-monirul.top/SM/live/travel_xp.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="Documentary",AXN
+http://sm-monirul.top/SM/live/axn_hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="Documentary",TRVL Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3687.ts
 
 
 
