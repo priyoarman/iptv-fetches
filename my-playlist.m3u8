@@ -409,16 +409,16 @@ http://sm-monirul.top/toffee/play/star_gold_hd.m3u8
 http://sm-monirul.top/toffee/play/star_gold_2_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Hindi",Sony TV
-#https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
-https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
+https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
+#https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png" group-title="Hindi",Sony SAB
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY MAX HD1745034069.png" group-title="Hindi",Sony MAX
-#https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" group-title="Hindi",Sony MAX2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -442,8 +442,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 https://sm-monirul.top/toffee/play/and_tv_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Hindi",And Pictures
-#https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
-https://book4u.top/worker/index.php?path=api/e4b503da70/playlist.m3u8
+https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
+#https://book4u.top/worker/index.php?path=api/e4b503da70/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Hindi",Zee TV
 https://sm-monirul.top/toffee/play/zee_tv_hd.m3u8
