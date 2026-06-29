@@ -164,14 +164,14 @@ https://ranapkbd.site/JOIN@RANAPK33/play.php?id=373312&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Qt75kXJ/unite2-removebg-preview.png" group-title="Sports",Unite8 Sports 2
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ice.mv/_next/image?url=%2Fice-network.png&w=384&q=75" group-title="Sports",Ice Sports
+http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",Ten Sports
 https://stalker.hakunamata.workers.dev/play/1098/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Bangla",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
 
 
@@ -201,8 +201,8 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",TV 7
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",Ice Sport
-http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Bangla",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Sports",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
