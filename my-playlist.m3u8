@@ -192,17 +192,17 @@ http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports Max
 http://185.160.192.64:80/mangin15/85784/13682
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 1
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4 /43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",TV 5
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",Toffee 2
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4 /43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",TVP Sport
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="Sports",Bioscope 1
-http://sm-monirul.top/ott/bioscope/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",TV 7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="Sports",Bioscope 2
-http://sm-monirul.top/ott/bioscope1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",Ice Sport
+http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Sports",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
