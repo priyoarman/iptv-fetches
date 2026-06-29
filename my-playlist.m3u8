@@ -150,8 +150,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="Sports",FOX Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVRI_Daerah.png" group-title="Sports",TVRI
-http://baka.semar.my.id:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117217_light_360w_270h.png" group-title="TV",STV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -218,13 +218,22 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png?_=20221114223321" group-title="Sports",DSports
-http://190.117.20.37:8000/play/a08d/index.m3u8
+#http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DSports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DSports
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DSports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107396_light_360w_270h.png" group-title="TV",DSports 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="DSPORTS.+.HD(DTS+HD).co" tvg-name="DSports Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DSports Plus
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/28/20241028021223605133_95.png" group-title="Sports",Sport TV 1
-https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Sports",Sport TV 5
-https://obstreamx.click/live/lxpqn421rh.m3u8
+#https://obstreamx.click/live/lxpqn421rh.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports",SporTV
 http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
@@ -233,7 +242,8 @@ http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sports",Win Sports
-http://190.60.39.195:8000/play/a0ug/index.m3u8
+#http://190.60.39.195:8000/play/a0ug/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="Sports",Rai Sport
 http://lordstreams.live:80/9857855271/8369553594/661360
