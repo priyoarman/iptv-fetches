@@ -5,7 +5,7 @@
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla",ATN Bangla
-https://sm-monirul.top/toffee/play/atn_bangla.m3u8
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908652&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/3/channel-i-logo-png_seeklogo-427745.png" group-title="Bangla",Channel I
 https://sm-monirul.top/toffee/play/channel_i.m3u8
@@ -86,7 +86,7 @@ https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv
 
 #EXTINF:-1 tvg-id="93000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangla",ATN News
-https://sm-monirul.top/toffee/play/atn_news.m3u8
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908661&extension=m3u8
 
 #EXTINF:-1 tvg-id="191000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -167,11 +167,10 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-https://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+http://line.smootvone.vip/play/live.php?mac=A0:BB:3E:00:03:3d&stream=809398&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",Ten Sports
-https://stalker.hakunamata.workers.dev/play/1098/index.m3u8
-
+http://line.smootvone.vip/play/live.php?mac=A0:BB:3E:00:03:3d&stream=809396&extension=m3u8
 
 
 
@@ -220,6 +219,12 @@ https://obstreamx.click/live/byunqmaemy.m3u8
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zoojqh2zjh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/zoojqh2zjh.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=vg3xdntclm
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=vg3xdntclm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/vg3xdntclm.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",TV 7
 #https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
@@ -272,8 +277,7 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 http://lordstreams.live:80/9857855271/8369553594/661360
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" group-title="Sports",DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
+https://obstreamx.click/live/ifibecaaqs.m3u8
 
 
 
@@ -290,7 +294,7 @@ http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92240
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/CCTV-5_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest/scale-to-width-down/985?cb=20220319061806&path-prefix=vi" group-title="Sports",CCTV 5
-https://live13a.jynrrs.com/live/20233432.m3u8
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg/revision/latest/scale-to-width-down/250?cb=20240715195802" group-title="Sports",Fussball TV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -518,7 +522,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://sm-monirul.top/toffee/play/zing_sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png" group-title="Indian Bangla",SANGEET BANGLA
-https://cdn-4.pishow.tv/live/1143/master.m3u
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908672&extension=m3u8
 
 
 
@@ -540,7 +544,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="Indian Bangla",JALSHA MOVIES
-http://sm-monirul.top/toffee/play/jalsha_movies_hd.m3u8
+http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908656&extension=m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Indian Bangla",ZEE BANGLA CINEMA
 http://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
