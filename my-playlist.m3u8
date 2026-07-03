@@ -77,7 +77,8 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv
 
 #EXTINF:-1 tvg-id="98000" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",Somoy TV
 #http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="198000" tvg-logo="https://framerusercontent.com/images/sOtAS0qaCzW8VObuEV8hfGyLKfQ.webp" group-title="Bangla",Ekhon TV
 https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
@@ -101,7 +102,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/120px-T_Sports_logo.svg.png?_=20250120073747" group-title="Sports",T Sports
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
 
 
 
@@ -151,11 +152,11 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="Sports",FOX Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports",TVRI Sport
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="Sports",Fox National
+http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117217_light_360w_270h.png" group-title="TV",STV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
+#EXTINF:-1 tvg-logo="https://se-tu.cl/wp-content/uploads/2026/06/socolive.webp" group-title="Sports" ,SOCO Live
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781380041-0-0-adb5c4f9f04cfce924cf34723cd777cd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YjMTLHM/unite1-removebg-preview.png" group-title="Sports",Unite8 Sports 1
 https://ranapkbd.site/JOIN@RANAPK33/play.php?id=373312&e=.m3u8
@@ -193,91 +194,30 @@ http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745087.&exte
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/bein-sports-logo-png_seeklogo-390226.png" group-title="Sports",beIN Sports Max
 http://185.160.192.64:80/mangin15/85784/13682
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4 /43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",TVP Sport
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",Servus TV
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=n8ilhjbzdh
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=n8ilhjbzdh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/n8ilhjbzdh.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",TV 1
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Sports",ARD 1
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=abzkpknkkt
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=abzkpknkkt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/abzkpknkkt.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",ZDF
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=byunqmaemy
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=byunqmaemy
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Sports",Servus TV
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=n8ilhjbzdh
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=n8ilhjbzdh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/byunqmaemy.m3u8
+https://obstreamx.click/live/n8ilhjbzdh.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",ORF
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Sports",ORF
 #EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zoojqh2zjh
 #EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zoojqh2zjh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://obstreamx.click/live/zoojqh2zjh.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Turkish Feed (STRMHUB)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Turkish Feed (STRMHUB)
-#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=vg3xdntclm
-#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=vg3xdntclm
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Sports",ZDF
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=byunqmaemy
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=byunqmaemy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://obstreamx.click/live/vg3xdntclm.m3u8
+https://obstreamx.click/live/byunqmaemy.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",TV 7
-#https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/ZEE5_2025.png" group-title="Bangla",Zee Bangla Sonar
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Sports",Kan 11
-#https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
-http://190.7.19.197:232/play/a04w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Sports",TNT Sports
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png?_=20221114223321" group-title="Sports",DSports
-#http://190.117.20.37:8000/play/a08d/index.m3u8
-
-#EXTINF:-1 tvg-chno="45" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DSports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DSports
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-
-#EXTINF:-1 tvg-chno="46" tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DSports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107396_light_360w_270h.png" group-title="TV",DSports 2
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-
-#EXTINF:-1 tvg-chno="47" tvg-id="DSPORTS.+.HD(DTS+HD).co" tvg-name="DSports Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DSports Plus
-http://190.108.83.69:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/28/20241028021223605133_95.png" group-title="Sports",Sport TV 1
-#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Sports",Sport TV 5
-#https://obstreamx.click/live/lxpqn421rh.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports",SporTV
-http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
-
-#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/c/27/caze-tv_thumb.png" group-title="Sports",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sports",Win Sports
-#http://190.60.39.195:8000/play/a0ug/index.m3u8
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="Sports",Rai Sport
-http://lordstreams.live:80/9857855271/8369553594/661360
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" group-title="Sports",DAZN
-https://obstreamx.click/live/ifibecaaqs.m3u8
 
 
 
@@ -316,6 +256,91 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Sports",Telemundo
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
+http://190.7.19.197:232/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Sports",TNT Sports
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DSports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DSports
+#http://190.117.20.37:8000/play/a08d/index.m3u8
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DSports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107396_light_360w_270h.png" group-title="TV",DSports 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="DSPORTS.+.HD(DTS+HD).co" tvg-name="DSports Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DSports Plus
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/10/28/20241028021223605133_95.png" group-title="Sports",Sport TV 1
+#https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports",SporTV
+http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
+
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/c/27/caze-tv_thumb.png" group-title="Sports",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sports",Win Sports
+#http://190.60.39.195:8000/play/a0ug/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131810_dark_360w_270h.png" group-title="Sports",DAZN
+http://myxpanel.pro/live/13579/13579/838108.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-id=" fifaworldcup.com" tvg-logo="https://raw.githubusercontent.com/xr3ed/Auto-IPTV/main/logo/fifa.png" group-title="World Cup 2026",Globo TV 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://200.77.176.130:8000/udp/224.0.0.1:49152
+#https://hplay.tv/augetv/12396547488/10.m3u8
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-id=" fifaworldcup.com" tvg-logo="https://raw.githubusercontent.com/xr3ed/Auto-IPTV/main/logo/fifa.png" group-title="World Cup 2026",Globo TV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-id=" fifaworldcup.com" tvg-logo="https://raw.githubusercontent.com/xr3ed/Auto-IPTV/main/logo/fifa.png" group-title="World Cup 2026",Mono 29 Thai
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4 /43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Sports",TVP Sport
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_ logo.png" group-title="Sports",TV 7
+#https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Sports",Kan 11
+#https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.47/hls/dTHXCZckkkqqqq.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Argentina vs Cape Verde HD (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Argentina vs Cape Verde HD (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pul-tenm.gkykp.com/live/hd-en-1-4459731.m3u8?txSecret=5cc07f3472c840540d1fa01a89528769&txTime=6A496E38
+
+#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Cape Verde vs Argentina (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Cape Verde vs Argentina (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODMxMjg2NDYwODE6Y2RubGl2ZXR2LnR2OmU3NzMwNDE1N2FmODg5OGEuMTdmZGYyY2M0NDhmNTVlZDE1MWJhNTdmZjg3MjU3NTk5N2MzYjE0ZGVmODI2MjQwOGQ2N2M2ZjA3ZWFlMmViYQ
+
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup] Australia vs Egypt | Backup 2[Tur] (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[World Cup] Australia vs Egypt | Backup 2[Tur] (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd8
+#EXTVLCOPT:http-origin=https://futbolx-live.hf.space/embed/hd8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://wc.ppvtv.top/stream/c85c4751c8db7585e71bb08981f65b55
 
 
 
