@@ -5,7 +5,8 @@
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png" group-title="Bangla",ATN Bangla
-http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908652&extension=m3u8
+#http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908652&extension=m3u8
+http://fastshare1.com:8080/live/25711345/late8airline/431.ts
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/3/channel-i-logo-png_seeklogo-427745.png" group-title="Bangla",Channel I
 https://sm-monirul.top/toffee/play/channel_i.m3u8
@@ -64,7 +65,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla",Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8
+#https://tvsen6.aynaott.com/channel24/index.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/391.ts
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla",Jamuna TV
 https://sm-monirul.top/toffee/play/jamuna_tv.m3u8
@@ -78,16 +80,17 @@ https://stream.ottplus.live/live/ekattor_tv_abr/live/ekattor_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-id="98000" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",Somoy TV
 #http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#http://fastshare1.com:80/live/25711345/late8airline/422.ts
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="198000" tvg-logo="https://framerusercontent.com/images/sOtAS0qaCzW8VObuEV8hfGyLKfQ.webp" group-title="Bangla",Ekhon TV
-https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh",News 24
+http://fastshare1.com:80/live/25711345/late8airline/3810.ts
 
-#EXTINF:-1 tvg-id="93000" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Bangla",Independent TV
-https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv
+#EXTINF:-1 group-title="Bangladesh",Independent TV
+http://fastshare1.com:80/live/25711345/late8airline/423.ts
 
-#EXTINF:-1 tvg-id="93000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangla",ATN News
-http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908661&extension=m3u8
+#EXTINF:-1 group-title="Bangladesh",DBC News
+http://fastshare1.com:80/live/25711345/late8airline/420.ts
 
 #EXTINF:-1 tvg-id="191000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -99,10 +102,13 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Bangla",Gazi TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/767.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/120px-T_Sports_logo.svg.png?_=20250120073747" group-title="Sports",T Sports
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
+#https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
 
 
@@ -167,7 +173,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://ranapkbd.site/JOIN@RANAPK33/play.php?id=373312&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Qt75kXJ/unite2-removebg-preview.png" group-title="Sports",Unite8 Sports 2
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#http://212.102.34.8:9080/AndFlixHD/video.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/745202.ts
 
 #EXTINF:-1 tvg-logo="https://www.ice.mv/_next/image?url=%2Fice-network.png&w=384&q=75" group-title="Sports",Ice Sports
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
