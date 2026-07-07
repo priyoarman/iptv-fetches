@@ -1,93 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Channel
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745080.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745081.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745082.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745083.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745084.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745085.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745086.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745087.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745088.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745089.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745090.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745091.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745093.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745094.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745095.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745096.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745097.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745098.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745099.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745100.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745101.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745102.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745103.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745104.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745105.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745106.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745107.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745108.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745109.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745110.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745111.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745112.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745113.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745114.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745115.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745116.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745117.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745118.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745119.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745120.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745121.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745122.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745123.&extension=m3u8
-#EXTINF:-1 group-title="Sports",Channel
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745124.&extension=m3u8
+#EXTINF:-1,Nagorik TV
+http://fastshare1.com:80/live/25711345/late8airline/3802.ts
+
+#EXTINF:-1,Duronto TV
+http://fastshare1.com:80/live/25711345/late8airline/433.ts
+
+#EXTINF:-1,T Sports
+http://fastshare1.com:80/live/25711345/late8airline/52500.ts
+
+#EXTINF:-1,Star Jalsha
+http://fastshare1.com:80/live/25711345/late8airline/198.ts
+
+#EXTINF:-1,Zee Bangla
+http://fastshare1.com:80/live/25711345/late8airline/435.ts
+
+#EXTINF:-1,Colors Bangla
+http://fastshare1.com:80/live/25711345/late8airline/183.ts
+
+#EXTINF:-1,Sun Bangla
+http://fastshare1.com:80/live/25711345/late8airline/3753.ts
+
+#EXTINF:-1,Unite8 Sports 1
+http://fastshare1.com:80/live/25711345/late8airline/741567.ts
+
+#EXTINF:-1,Sony Aath
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
+
+#EXTINF:-1 group-title="Bangladesh",Bijoy TV
+http://fastshare1.com:80/live/25711345/late8airline/408.ts
+
+#EXTINF:-1 group-title="Bangladesh",N TV
+http://fastshare1.com:8080/live/25711345/late8airline/424.ts
+
+#EXTINF:-1 group-title="Bangladesh",Bangla Vision
+http://fastshare1.com:8080/live/25711345/late8airline/426.ts
+
+#EXTINF:-1 group-title="Bangladesh",Deepto TV 1
+http://fastshare1.com:80/live/25711345/late8airline/1331.ts
+
+#EXTINF:-1 group-title="Bangladesh",Deepto TV 2
+http://fastshare1.com:80/live/25711345/late8airline/1036.ts
+
+#EXTINF:-1 group-title="Bangladesh",G TV
+http://fastshare1.com:80/live/25711345/late8airline/767.ts
+
+#EXTINF:-1 group-title="Bangladesh",Ekushey TV
+http://fastshare1.com:80/live/25711345/late8airline/3813.ts
+
+#EXTINF:-1 group-title="Bangladesh",ATN Bangla
+http://fastshare1.com:8080/live/25711345/late8airline/431.ts
+
+#EXTINF:-1 group-title="Bangladesh",Mohona TV
+http://fastshare1.com:80/live/25711345/late8airline/397.ts
+
+#EXTINF:-1 group-title="Bangladesh",My TV
+http://fastshare1.com:80/live/25711345/late8airline/398.ts
+
+#EXTINF:-1 group-title="Bangladesh",Somoy TV
+http://fastshare1.com:80/live/25711345/late8airline/422.ts
+
+#EXTINF:-1 group-title="Bangladesh",Channel 24
+http://fastshare1.com:80/live/25711345/late8airline/391.ts
+
+#EXTINF:-1 group-title="Bangladesh",News 24
+http://fastshare1.com:80/live/25711345/late8airline/3810.ts
+
+#EXTINF:-1 group-title="Bangladesh",Independent TV
+http://fastshare1.com:80/live/25711345/late8airline/423.ts
+
+#EXTINF:-1 group-title="Bangladesh",DBC News
+http://fastshare1.com:80/live/25711345/late8airline/420.ts
+
+#EXTINF:-1,Ekattor TV
+https://stream.ottplus.live/live/ekattor_tv_abr/live/ekattor_tv_720/chunks.m3u8
