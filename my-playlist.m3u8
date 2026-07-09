@@ -8,11 +8,11 @@ http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908652&extension=m3u8
 http://fastshare1.com:8080/live/25711345/late8airline/431.ts
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/3/channel-i-logo-png_seeklogo-427745.png" group-title="Bangla",Channel I
-https://sm-monirul.top/toffee/play/channel_i.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/3/channel-i-logo-png_seeklogo-427745.png" group-title="Bangla",Channel i
+http://fastshare1.com:80/live/25711345/late8airline/391.ts
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Bangla",NTV
-https://sm-monirul.top/toffee/play/n_tv.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/424.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" group-title="Bangla",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
@@ -47,7 +47,8 @@ http://116.204.149.16/satv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="Bangla",Desh TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
+#https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
+http://fastshare1.com:80/live/25711345/late8airline/394.ts
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Bangla",Asian TV
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
@@ -56,10 +57,12 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/My_TV_2010_Logo.svg/revision/latest/scale-to-width-down/250?cb=20260205155409" group-title="Bangla",My TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/398.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="Bangla",Mohona TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/397.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="Bangla" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png",G-Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -69,7 +72,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 http://fastshare1.com:80/live/25711345/late8airline/391.ts
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla",Jamuna TV
-https://sm-monirul.top/toffee/play/jamuna_tv.m3u8
+http://fastshare1.com:80/live/25711345/late8airline/421.ts
 
 
 
