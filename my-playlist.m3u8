@@ -104,15 +104,15 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 https://tvsen7.aynaott.com/Sports4/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",DBC News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6YbmHtb/img33.png" group-title="Bangla",DBC News
 #http://fastshare1.com:80/live/25711345/late8airline/420.ts
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",News 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqBPKYdR/img24.png" group-title="Bangla",News 24
 http://fastshare1.com:80/live/25711345/late8airline/3810.ts
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh",Independent TV
+#EXTINF:-1 group-title="Bangla",Independent TV
 http://fastshare1.com:80/live/25711345/late8airline/423.ts
 
 #EXTINF:-1 tvg-id="191000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
@@ -121,7 +121,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png" group-title="Bangla",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla",Thikana TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLmZ9dmM/images-removebg-preview.png" group-title="Bangla",Thikana TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Bangla",Gazi TV
